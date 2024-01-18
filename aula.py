@@ -8,6 +8,6 @@ elif(preco <= 50):
 elif(preco <= 100):
     print(f"O {nome} tem um valor considerado médio. O Valor dele é {preco} reais")
 else:
-    print(f"O {nome} tem um valor considerado Alto. O Valor dele é {preco} reais")
+    print(f"O {nome} tem um valor considerado Alto. O Valor dele é {preco} reaissss")
 
 
